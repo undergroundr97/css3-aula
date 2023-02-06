@@ -1,0 +1,19 @@
+.background {
+    background: rgb(233, 159, 159);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font {
+    font-size: 36px;
+    font-family: sans-serif;
+}
+
+#thisID {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+#thisID2{
+    background: rgb(144, 238, 144);
+    font-size: 24px;    
+    font-weight: bold;
+}
